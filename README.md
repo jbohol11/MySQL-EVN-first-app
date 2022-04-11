@@ -1,3 +1,6 @@
+This is my first MySQL, Express, VueJS and NodeJS app
+It is a survey app with CRUD
+
 # nodejs-mysql
 
 ## Project setup
